@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/USERNAME/radiant_hydrants/main/version.json
+https://raw.githubusercontent.com/Rebelgamer2k20/Radiant-Hydrant/refs/heads/main/radiant%20hydrants/version.json?token=GHSAT0AAAAAADPNINL2XQ65NE4KZL5XPXN22I23GJA
