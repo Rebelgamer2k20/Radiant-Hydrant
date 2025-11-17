@@ -6,7 +6,7 @@ CreateThread(function()
     local resource = GetCurrentResourceName()
     local version = GetResourceMetadata(resource, "version", 0)
     local communityID = "1392750221532069988"
-    local githubRaw = "https://raw.githubusercontent.com/Rebelgamer2k20/Radiant-Hydrant/refs/heads/main/radiant%20hydrants/version.json"
+    local githubRaw = "https://raw.githubusercontent.com/Rebelgamer2k20/Radiant-Hydrant/refs/heads/main/radiant%20hydrants/version.json?token=GHSAT0AAAAAADPNINL2MYI6H6ARRHZFS3SI2I23NSQ"
 
     -- Console colors
     local RED    = "^1"
